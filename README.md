@@ -1,5 +1,5 @@
 # portfolio
-# Ramya | Aspiring Data Analyst
+# Ramya | Aspiring Data scientist
 
 ##  About Me
 I am a motivated fresher learning Python and Data Science. 
